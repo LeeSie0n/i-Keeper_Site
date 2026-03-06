@@ -7,11 +7,11 @@ Although the source code was initially intended to remain private, it has been m
 ## Team Information
 Our team consists of
 
-[Leader] Lee Si-eon
-[Member] Eun Eun-sol
-[Member] Oh Seo-jin
-[Member] Jung Ji-hyo
-[Member] Kim Si-eun
+[Leader] Lee Si-eon    
+[Member] Eun Eun-sol    
+[Member] Oh Seo-jin    
+[Member] Jung Ji-hyo    
+[Member] Kim Si-eun    
 
 We are all majoring in computer engineering at Daegu Catholic University.
 The copyright to the code of the project is held by my team. If you want to use it, please contact me in advance.
