@@ -11,7 +11,8 @@ Our team consists of
 [Member] Eun Eun-sol    
 [Member] Oh Seo-jin    
 [Member] Jung Ji-hyo    
-[Member] Kim Si-eun    
+[Member] Kim Si-eun   
+[Member] Lee Sa-yoon    
 
 We are all majoring in computer engineering at Daegu Catholic University.
 The copyright to the code of the project is held by my team. If you want to use it, please contact me in advance.
